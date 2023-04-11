@@ -1,8 +1,10 @@
-# editable-website
+# editable-website - AI completion editor tool feature showcase
 
 A SvelteKit template for coding **completely custom website**, while allowing non-technical people to **make edits** to the content by simply logging in with a secure admin password.
+This is a fork of the original template created by [editable.website](https://editable.website) with the following changes:
+- Add feature to complete texts using ChatGPT (provided your OpenAI API key)
 
-Check out the demo at [editable.website](https://editable.website).
+Check out the original core demo at [editable.website](https://editable.website).
 
 ## But why?
 
